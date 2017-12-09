@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Compressor Head</string>
+
+    <!-- Image compression parameters -->
+    <string name="hint_url_source">源 (URL)</string>
+    <string name="hint_height_px">高度 (px)</string>
+    <string name="hint_width_px">寬度 (px)</string>
+
+    <string name="title_info">資訊</string>
+    <string name="description_image_preview">圖片預覽</string>
+    <string name="text_preview_button">預覽</string>
+    <string name="text_download_button">下載</string>
+    <string name="description_info_dialog">壓縮頭子讓你通過遠程URL壓縮圖片以得到你想要的圖片格式和分辯率。</string>
+    <string name="button_info_dialog">知道了</string>
+</resources>
